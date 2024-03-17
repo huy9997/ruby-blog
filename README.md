@@ -25,7 +25,7 @@ Things you may want to cover:
 Following the guide below 
 https://guides.rubyonrails.org/getting_started.html 
 
-## Currently on step 7.2 of the guide
+## Currently on step 8.4 of the guide
 
 Commands to note 
 # Tips 
@@ -51,3 +51,17 @@ Commands to note
     3. Article.find(1) ( check to see if it appears ) 
       OR Article.all
     
+# Common commands 
+  - bin/rails console
+    - launch rails console
+  - bin/rails server
+    - launch server 
+  - bin/rails test
+    - 
+  - bin/rails generate
+    - generate code 
+  - bin/rails db:migrate
+  - bin/rails db:create
+  - bin/rails routes
+  - bin/rails dbconsole
+  - rails new app_name

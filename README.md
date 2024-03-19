@@ -25,7 +25,7 @@ Things you may want to cover:
 Following the guide below 
 https://guides.rubyonrails.org/getting_started.html 
 
-## Currently on step 8.4 of the guide
+## Currently on step 9.2 of the guide
 
 Commands to note 
 # Tips 
